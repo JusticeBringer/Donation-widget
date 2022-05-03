@@ -1,0 +1,10 @@
+p,
+button {
+  margin: 0px;
+  padding: 0px;
+  color: rgb(105, 105, 105);
+}
+
+button {
+  cursor: pointer;
+}
