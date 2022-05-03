@@ -12,6 +12,17 @@ A user should be able to use it as if it’s an actual donation widget.
 
 ![image](https://github.com/JusticeBringer/Donation-widget/blob/main/public/images/widget.png)
 
+### Implementation
+
+Implementation can be seen live [here](https://justicebringer.github.io/Donation-widget/).
+
+I have added following bonuses:
+
+- On initial load the donation bar increases width with transition effect
+- Every donation makes the donation bar increase width with transition effect
+- When money are no longer needed the „Tell your friends” button receives a beautiful border animation
+- You can donate not only 50$ but whatever amount you want. Included validation for user input.
+
 ### Technologies used
 
 - HTML5, CSS3, JavaScript ES6
