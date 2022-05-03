@@ -10,7 +10,7 @@ You need to stick to the design as much as possible, moreover, the box needs to 
 
 A user should be able to use it as if it’s an actual donation widget.
 
-![image](https://user-images.githubusercontent.com/42377363/166445617-fcc999ea-1a99-4b6c-9ba2-3c9b00b05ddb.png)
+![image](https://github.com/JusticeBringer/Donation-widget/blob/main/public/images/widget.png)
 
 ### Technologies used
 

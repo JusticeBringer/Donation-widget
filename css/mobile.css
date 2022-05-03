@@ -1,5 +1,8 @@
 @media (max-width: 780px) {
   .wrapper {
-    margin-top: 5vh;
+    margin-top: 10vh;
+  }
+  .modal-links {
+    flex-direction: column;
   }
 }
